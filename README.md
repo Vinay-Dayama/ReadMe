@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Correcting bugs since 2023<br>📚 I'm currently learning Python and DBMS<br>🎯 Goals: To become a DATA SCIENTIST<br>🎲 Fun fact: "Follow along for updates; I'm constantly tweaking things like a chef perfecting a recipe."</p>
+<p align="left">✨ Correcting bugs since 2023<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: To become a DATA SCIENTIST<br>🎲 Fun fact: "Follow along for updates; I'm constantly tweaking things like a chef perfecting a recipe."</p>
 
 ###
 
